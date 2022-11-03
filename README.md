@@ -1,9 +1,11 @@
 # Day10_Tableau_LAB
 
 
-Create an interactive dashboard (databases of your choice),
+This is the data of Saudi stock market companies since 2000-01-01. It was collected from Saudi Stock Exchange (Tadawul) 
+https://www.kaggle.com/datasets/salwaalzahrani/saudi-stock-exchange-tadawul?select=Tadawul_stcks.csv
 
-- Contains three drawings
-- use the filter
+sheet1:Show us the high and low price of the trading journey of each company.
 
-But you must include a description of the data + description of the dashboard in the README file.
+sheet2: Show us the average closing price of each sector.
+
+Sheet3 : Show us the volume of trade in each sector.
