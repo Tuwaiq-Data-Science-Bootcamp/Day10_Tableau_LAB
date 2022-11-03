@@ -10,7 +10,7 @@ But you must include a description of the data + description of the dashboard in
 # data used:
 - titanic dataset
 
-#dashboard description:
+# dashboard description:
 - 1: piechart of male and female ages
 - 2: barchart of each class and its frequency
 - 3: treemap to show the age distribution with age, filtered by the class
