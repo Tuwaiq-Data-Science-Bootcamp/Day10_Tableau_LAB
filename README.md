@@ -8,3 +8,4 @@ Create an interactive dashboard (databases of your choice),
 - Publish the dashboard and share the link
 
 But you must include a description of the data + description of the dashboard in the README file.
+  https://public.tableau.com/app/profile/rawan3826/viz/Day10lab1Rawan/Dashboard1?publish=yes
